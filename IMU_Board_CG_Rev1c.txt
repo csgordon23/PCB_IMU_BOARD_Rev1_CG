@@ -1,0 +1,205 @@
+Board Information Report
+Filename     : C:\Users\Public\Documents\Altium\Projects\IMU_Board_Rev1_CG\IMU_Board_CG_Rev1c.PcbDoc
+Date         : 9/21/2020
+Time         : 7:28:38 PM
+Time Elapsed : 00:00:01
+
+General
+    Board Size, 3000milsx2000mils
+    Components on board, 63
+count : 2
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 127
+    Connections routed, 127
+    Connections remaining, 0
+count : 4
+
+Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
+    Top Layer, 0, 94, 0, 260, 0, 0, 3, 0
+    Bottom Layer, 0, 54, 0, 243, 0, 0, 4, 0
+    Mechanical 1, 0, 0, 0, 0, 0, 0, 0, 5
+    Mechanical 4, 0, 0, 0, 8, 0, 0, 0, 0
+    Mechanical 13, 1, 0, 0, 150, 1, 1, 0, 87
+    Mechanical 15, 0, 0, 0, 218, 0, 0, 0, 0
+    Mechanical 16, 0, 0, 0, 12, 0, 0, 0, 0
+    Multi-Layer, 0, 73, 67, 0, 0, 0, 1, 0
+    Top Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Top Overlay, 7, 0, 0, 63, 80, 0, 86, 0
+    Top Solder, 0, 0, 0, 0, 0, 1, 0, 0
+    Bottom Solder, 0, 0, 0, 0, 0, 1, 0, 0
+    Bottom Overlay, 1, 0, 0, 56, 56, 0, 0, 0
+    Bottom Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Drill Guide, 0, 0, 0, 0, 0, 0, 0, 0
+    Keep-Out Layer, 0, 0, 0, 0, 0, 0, 0, 0
+    Drill Drawing, 0, 0, 0, 0, 0, 0, 0, 0
+count : 17
+
+Drill Pairs, Vias
+    Top Layer - Bottom Layer, 67
+count : 1
+
+Layer, Sq.In., Sq.MM., Percent of layer
+    Top Layer, 4.839, 3121.848, 81%
+    Bottom Layer, 4.623, 2982.551, 77%
+count : 2
+
+Non-Plated Hole Size, Pads, Vias
+    0mils, 6, 0
+count : 1
+
+Plated Hole Size, Pads, Vias
+    0mils, 142, 0
+    10mils, 0, 13
+    20mils, 0, 44
+    28mils, 10, 0
+    35mils, 16, 0
+    38.976mils, 4, 0
+    39.37mils, 9, 0
+    40mils, 10, 0
+    40.158mils, 24, 0
+    90mils, 0, 2
+    100mils, 0, 4
+    126mils, 0, 4
+count : 12
+
+Non-Plated Slot Size / Length, Pads
+count : 0
+
+Plated Slot Size / Length, Pads
+count : 0
+
+Non-Plated Square Hole Size, Pads
+count : 0
+
+Plated Square Hole Size, Pads
+count : 0
+
+Top Layer Annular Ring Size, Count
+    12mils, 10
+    16mils, 57
+    20mils, 4
+    20.866mils, 24
+    25mils, 16
+    30mils, 2
+    36mils, 10
+    36.63mils, 9
+    60mils, 4
+    114mils, 4
+count : 10
+
+Mid Layer Annular Ring Size, Count
+    12mils, 10
+    16mils, 57
+    20mils, 4
+    20.866mils, 24
+    25mils, 16
+    30mils, 2
+    36mils, 10
+    36.63mils, 9
+    60mils, 4
+    114mils, 4
+count : 10
+
+Bottom Layer Annular Ring Size, Count
+    12mils, 10
+    16mils, 57
+    20mils, 4
+    20.866mils, 24
+    25mils, 16
+    30mils, 2
+    36mils, 10
+    36.63mils, 9
+    60mils, 4
+    114mils, 4
+count : 10
+
+Pad Solder Mask, Count
+    0mils, 64
+    3mils, 10
+    4mils, 147
+count : 3
+
+Pad Paste Mask, Count
+    0mils, 221
+count : 1
+
+Pad Pwr/Gnd Expansion, Count
+    20mils, 221
+count : 1
+
+Pad Relief Conductor Width, Count
+    20mils, 221
+count : 1
+
+Pad Relief Air Gap, Count
+    10mils, 221
+count : 1
+
+Pad Relief Entries, Count
+    4, 221
+count : 1
+
+Via Solder Mask, Count
+    4mils, 67
+count : 1
+
+Via Pwr/Gnd Expansion, Count
+    20mils, 67
+count : 1
+
+Track Width, Count
+    1.969mils, 144
+    3.937mils, 230
+    5mils, 12
+    5.906mils, 4
+    7.874mils, 103
+    10mils, 201
+    12mils, 17
+    20mils, 186
+    25mils, 109
+    50mils, 4
+count : 10
+
+Arc Line Width, Count
+    1.969mils, 1
+    7.874mils, 2
+    9.843mils, 3
+    10mils, 1
+    15.748mils, 2
+count : 5
+
+Arc Radius, Count
+    3.937mils, 2
+    4.921mils, 3
+    5mils, 1
+    5.568mils, 1
+    7.874mils, 2
+count : 5
+
+Arc Degrees, Count
+    360, 9
+count : 1
+
+Text Height, Count
+    19.685mils, 7
+    30mils, 119
+    31.496mils, 1
+    60mils, 10
+count : 4
+
+Text Width, Count
+    1.969mils, 1
+    3.937mils, 7
+    5mils, 119
+    10mils, 10
+count : 4
+
+Net Track Width, Count
+    5mils, 39
+count : 1
+
+Net Via Size, Count
+    25mils, 39
+count : 1
